@@ -42,6 +42,9 @@ def jornada_nas_estrelas_v2(i: int, N: int, W: list, es_atacadas: set) -> None:
     return (len(es_atacadas), sum(W))
 
 
+def jornada_nas_estrelas_v3(i: int, N: int, W: list, es_atacadas: set) -> None:
+    """Fazer implementação usando vetores de True e False"""
+
 def proximo_movimento(ovelhas: int, i) -> int:
     """Diz qual a próxima fazendo a ser visitada.
 
