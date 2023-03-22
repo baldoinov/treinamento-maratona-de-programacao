@@ -14,3 +14,5 @@
 - *Wrong Answer*: o seu programa não responde corretamente ao exercício passado.
 - *Presentation Error*: o programa está correto, mas a saída não está no formato especificado pela questão.
 - *Time Limit Exceeded*: o programa demorou mais do que o permitido para executar.
+
+## Encontro 22/03/2023 - Vetores e Matrizes
