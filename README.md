@@ -15,6 +15,21 @@ Repositório dedicado aos materiais do treinamento da Maratona de Programação 
    1. Fila do Recerio. [Enunciado](desafios/02_1548_Fila_do_Recreio.pdf) + [Solução](solucoes/02_1548_fila_do_recreio.py)
    2. Tradutor do Papai Noel. [Enunciado](desafios/02_1763_Tradutor_do_Papai_Noel.pdf) + [Solução](solucoes/02_1763_tradutor_do_papai_noel.py)
 
+3. Desafios #03:
+   1. Crescimento Populacional. [Enunciado](desafios/03_1160_Crescimento_Populacional.pdf) 
+   2. Sentença Dançante. [Enunciado](desafios/03_1234_Sentenca_Dancante.pdf)
+   3. Preenchimento de Vetor IV. [Enunciado](desafios/03_1179_Preenchimento_de_Vetor_IV.pdf)
+   4. Área Direita. [Enunciado](desafios/03_1190_Area_Direita.pdf)
+   5. Sudoku. [Enunciado](desafios/03_1383_Sudoku.pdf)
+   6. Ventiladores e Balões. [Enunciado](desafios/03_1870_Ventiladores_e_Baloes.pdf)
+
+4. Desafios #04:
+   1. Infixa para Posfixa. [Enunciado](desafios/04_1077_Infixa_para_Posfixa.pdf)
+   2. Fila do SUS. [Enunciado](desafios/04_2506_Fila_do_SUS.pdf)
+   3. Trilhos. [Enunciado](desafios/04_1062_Trilhos.pdf)
+   4. Estacionamento Linear. [Enunciado](desafios/04_1523_Estacionamento_Linear.pdf)
+   5. Avaliador Lexico e Sintático. [Enunciado](desafios/04_1083_LEXSIM_Avaliador_Lexico_e_Sintatico.pdf)
+   6. Buscando Novos Seguidores. [Enunciado](desafios/04_3139_Buscando_Novos_Seguidores.pdf)
 
 
 
