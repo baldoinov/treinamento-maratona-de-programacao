@@ -9,7 +9,7 @@ This repository is dedicated to the materials for the Mackenzie Programming Mara
    2. The Movie. [Statement](desafios/01_1963_O_Filme.pdf) + [Solution](solucoes/01_1963_o_filme.py)
    3. Types of Triangles. [Statement](desafios/01_1045_Tipos_de_Triangulos.pdf) + [Solution](solucoes/01_1045_tipos_de_triangulo.py)
    4. Pronalandia's Enigma. [Statement](desafios/01_1984_O_Enigma_do_Pronalandia.pdf) + [Solution](solucoes/01_1984_o_enigima_do_pronalandia.py)
-   5. Journey to the Stars. [Statement](desafios/01_1973_Jornada_nas_Estrelas.pdf) + [Solution](solucoes/01_1973_jornada_nas_estrelas.py) ***(Reimplementar)***
+   5. Journey to the Stars. [Statement](desafios/01_1973_Jornada_nas_Estrelas.pdf) + [Solution](solucoes/01_1973_jornada_nas_estrelas.py) ***(To be reimplemented)***
 
 2. Desafios #02:
    1. School Playground Queue. [Statement](desafios/02_1548_Fila_do_Recreio.pdf) + [Solution](solucoes/02_1548_fila_do_recreio.py)
